@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input,
+button {
+    display: auto;
+    margin: 2px;
+    width:30%;
+}
+
+
